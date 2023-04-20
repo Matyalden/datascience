@@ -6,7 +6,9 @@ Limpieza de datos, gráficos de agrupamiento en facturación, clusterización je
 * "SegmentationData.csv"
 
 ## Entrega ML2
-* data
+Limpieza de datos, exploración atributos, matríz correlación, cálculo de componentes principales, gráficos varianza explicada, comparación entre marcas
+* "brandrating.csv"
 
 ## Entrega ML3
-* data
+Análisis exploratorio y limpieza datos, Predicción (Naive Bayes, Support Vector Machine, Decission Tree Classifier), Análisis resultados
+* data - Casen 2017
