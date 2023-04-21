@@ -12,3 +12,7 @@ Limpieza de datos, exploración atributos, matríz correlación, cálculo de com
 ## Entrega_code_ ML3
 Análisis exploratorio y limpieza datos, Predicción (Naive Bayes, Support Vector Machine, Decission Tree Classifier), Análisis resultados
 * data - Casen 2017
+
+## Entrega_code_ ML4
+Análisis exploratorio, modelos predicción (Logistic Regression, DTC, Random Forest, Bagging, GridSearchCV, Adaboost)
+* TRAIN.txt, TEST.txt, SUBMIT.txt
