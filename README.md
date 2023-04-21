@@ -15,4 +15,4 @@ Análisis exploratorio y limpieza datos, Predicción (Naive Bayes, Support Vecto
 
 ## Entrega_code_ ML4
 Análisis exploratorio, modelos predicción (Logistic Regression, DTC, Random Forest, Bagging, GridSearchCV, Adaboost)
-* TRAIN.txt, TEST.txt, SUBMIT.txt
+* TRAIN.txt, TEST.txt, SUBMIT.txt, Informe_Tarea_ML4.pdf, SUBMIT_GONZALEZ.txt.
